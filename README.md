@@ -8,13 +8,16 @@ To explore the code, clone the repository:
 
 bash
 
-git clone https://github.com/yourusername/python-zero-to-advance.git
+git clone https://github.com/malavikagowthaman/python-zero-to-advance.git
 
 cd python-zero-to-advance
 
-Topics Covered
+Topics Covered with real-time projects: 
 
 Python basics: Variables, data types, loops, functions
+
 Intermediate: Object-oriented programming, error handling, file handling
+
 Advanced: Decorators, generators, multithreading, and more
+
 Feel free to explore the folders, run the scripts, and learn at your own pace!
