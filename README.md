@@ -7,7 +7,9 @@ Getting Started
 To explore the code, clone the repository:
 
 bash
+
 git clone https://github.com/yourusername/python-zero-to-advance.git
+
 cd python-zero-to-advance
 
 Topics Covered
