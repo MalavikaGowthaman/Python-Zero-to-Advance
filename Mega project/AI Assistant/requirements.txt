@@ -1,0 +1,13 @@
+SpeechRecognition
+pyaudio
+google-generativeai
+gTTS
+pipwin
+streamlit
+openai==0.28
+playsound
+pygame
+pytube
+pyinstaller
+pyttsx3
+wikipedia

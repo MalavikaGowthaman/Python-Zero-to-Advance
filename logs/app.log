@@ -1,2 +1,0 @@
-[2024-09-29 11:37:28,604] root - INFO - Hello World!
-[2024-09-29 11:38:42,377] root - INFO - unsupported operand type(s) for /: 'int' and 'str'
