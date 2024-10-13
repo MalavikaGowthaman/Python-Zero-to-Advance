@@ -74,7 +74,7 @@ def wish_me():
 
 def gemini_response(query):
     """Get a response from the Gemini API. Answer should be in a short, crispy and easy way"""
-    genai.configure(api_key="AIzaSyAX0ptOJ6ISQ9xPfyloHWtB5a7acwz6eec")  # Replace with your actual Gemini API key
+    genai.configure(api_key="xx")  # Replace with your actual Gemini API key
     model = genai.GenerativeModel('gemini-pro')  # Adjust if needed
     response = model.generate_content(query)
     return response.text[:1000]
