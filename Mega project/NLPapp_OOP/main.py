@@ -3,7 +3,7 @@ import google.generativeai as genai
 class NLPModel:
 
     def get_model(self):
-        GOOGLE_API_KEY = "AIzaSyC2spfP88L-3iZbTn1r1nJoRalEpI7fwPQ"
+        GOOGLE_API_KEY = "xxx"
         try:
             genai.configure(api_key=GOOGLE_API_KEY)
             model = genai.GenerativeModel("gemini-pro")
